@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ground
   - Plate
+  - AirWall
   layers:
   - Default
   - TransparentFX
